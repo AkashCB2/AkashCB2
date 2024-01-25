@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash Chandra Behera, 3rd-Year Physics Major at IISER Kolkata
+- 👋 Hi, I’m @Akash Chandra Behera, 5th-Year Physics Major at IISER Kolkata
 - 👀 I’m interested in Quantum Computation, Quantum Information and Quantum Technologies
 - 🌱 I’m currently learning Arduino, Qiskit, Python and MatLab
 - 💞️ I’m looking to collaborate on ...
